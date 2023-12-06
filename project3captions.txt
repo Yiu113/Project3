@@ -1,0 +1,37 @@
+Captions for photos.
+
+Broken localhost: Broken index. For a long time, the index was functioning. Before I was taking my screenshots, I restarted my application, and the index ceased to work. Having it in static breaks things more. Also included is a picture of what the index looked like when it was functional.
+
+TenantView: Clicking on the tenant button redirects you to the tenant page. Tenants can only add new requests.
+
+TenantAdd: Clicking the add button opens a new form. Date is auto-generated for the tenant, apartment number isn't.
+
+Tenantfilled: Filled out form. Clicking the complete button adds it. Tenants must click the add button again to make a new form if they want multiple requests.
+
+Staffview1: Showing one tenant request in.
+
+Staffview2: Showing three.
+
+Filterapart: Apartment filtering.
+
+Filterarea: Area filtering.
+
+Filterdate: Date filtering. This one works trust me, it just doesn't show in the screenshot because it's all the same date. The databaseseeder I was using is also bizarrely nonfunctional.
+
+Filtercomplete: Filtered by completion.
+
+complete1: Staff can select a request and edit its status.
+
+complete2: Completed request.
+
+manager: Manager's view of the tenants.
+
+Mangeredit: Managers can edit info about the staff. The project description mentioned apartment number, but realistically all of these except for check-in date (and maybe even that) make sense to be editable.
+
+managerpostedit: Joe is now in apartment 6.
+
+manageradd: Manager adding greg.
+
+managerpostadd: Greg is here.
+
+managerdelete: Joe is gone.
